@@ -20,7 +20,6 @@ Fitur utama program:
 
 📁 Struktur File
 
-.
 ├── 📄 linked.h //  Header file untuk operasi linked list dasar
 
 ├── 📄 linked.c //  Implementasi operasi linked list dasar
