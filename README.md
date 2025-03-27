@@ -41,15 +41,15 @@ Fitur utama program:
 
 2. **Operasi Tambah Data**:
    - Tambah Kota: Memasukkan nama kota baru ke dalam sistem
-   - Tambah Nama: Memasukkan nama penduduk ke kota tertentu
+   - Tambah Nama: Memasukkan nama manusia ke kota tertentu
 
 3. **Operasi Hapus Data**:
-   - Hapus Kota: Menghapus kota beserta semua nama penduduknya
+   - Hapus Kota: Menghapus kota beserta semua nama manusianya
    - Hapus Nama: Menghapus nama tertentu dari kota tertentu
 
 4. **Operasi Tampil Data**:
-   - Tampilkan Semua: Menampilkan seluruh data kota dan penduduk
-   - Tampilkan per Kota: Menampilkan data penduduk untuk kota tertentu
+   - Tampilkan Semua: Menampilkan seluruh data kota dan nama manusia
+   - Tampilkan per Kota: Menampilkan data nama manusia untuk kota tertentu
 
 5. **Keluar**:
    - Membersihkan semua alokasi memori sebelum program berakhir
