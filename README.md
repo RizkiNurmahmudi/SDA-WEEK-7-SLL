@@ -53,7 +53,33 @@ Fitur utama program:
 
 5. **Keluar**:
    - Membersihkan semua alokasi memori sebelum program berakhir
-     
+
+🌆 Visualisasi
+
+```text
+┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
+│     KOTA 1      │      │     KOTA 2      │      │     KOTA 3      │
+├─────────────────┤      ├─────────────────┤      ├─────────────────┤
+│  🏙️ JAKARTA    │      │  🏙️ BANDUNG    │      │  🏙️ SURABAYA   │
+│  HEAD: ─────────┼─────>│  HEAD: ─────────┼─────>│  HEAD: NULL     │
+└────────┬────────┘      └────────┬────────┘      └─────────────────┘
+         │                        │
+         ▼                        ▼
+┌─────────────────┐      ┌─────────────────┐
+│    NODE 1       │      │    NODE 1       │
+├─────────────────┤      ├─────────────────┤
+│  👤 Nama: Budi  │      │  👤 Nama: Ani   │
+│  🔗 Next: ──────┼─┐    │  🔗 Next: ──────┼─┐
+└─────────────────┘ │    └─────────────────┘ │
+                    │                        │
+                    ▼                        ▼
+┌─────────────────┐        ┌─────────────────┐
+│    NODE 2       │        │    NODE 2       │
+├─────────────────┤        ├─────────────────┤
+│  👤 Nama: Citra │        │  👤 Nama: Rudi  │
+│  🔗 Next: NULL  │        │  🔗 Next: NULL  │
+└─────────────────┘        └─────────────────┘
+```
 
 🎯 Lesson Learned
 - Implementasi praktis Single Linked List dalam kasus nyata
