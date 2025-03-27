@@ -7,13 +7,13 @@ Fitur utama program:
 
 - Menambahkan kota baru ke dalam sistem
 
-- Menambahkan nama penduduk ke kota tertentu
+- Menambahkan nama manusia ke kota tertentu
 
-- Menghapus kota beserta semua nama penduduknya
+- Menghapus kota beserta semua nama manusianya
 
 - Menghapus nama tertentu dari sebuah kota
 
-- Menampilkan semua data kota dan penduduk
+- Menampilkan semua data kota dan nama manusia
 
 - Mencari data berdasarkan kota tertentu
 
