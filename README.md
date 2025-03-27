@@ -1,5 +1,6 @@
 # SDA-WEEK-7-SLL
 📌 Deskripsi Program
+
 Program ini merupakan implementasi struktur data Single Linked List untuk mengelola data kota dan nama penduduk. Program dibuat dalam bahasa C dan menggunakan konsep linked list untuk menyimpan data nama dalam setiap kota.
 
 Fitur utama program:
@@ -43,4 +44,5 @@ Fitur utama program:
 - Penggunaan array of linked lists untuk struktur data yang lebih kompleks
 
 📝 Catatan
+
 Program ini dikembangkan sebagai bahan pembelajaran struktur data dan pemrograman C. Kritik dan saran untuk pengembangan lebih lanjut sangat diterima.
