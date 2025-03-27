@@ -17,6 +17,16 @@ Fitur utama program:
 
 - Mencari data berdasarkan kota tertentu
 
+📁 Struktur File
+.
+├── 📄 linked.h //  Header file untuk operasi linked list dasar
+├── 📄 linked.c //  Implementasi operasi linked list dasar
+├── 📄 SLL.h //     Header file untuk sistem manajemen kota-nama
+├── 📄 SLL.c //     Implementasi sistem manajemen kota-nama
+├── 📄 main.c //    Program utama dengan antarmuka menu
+├── 📄 boolean.h // Definisi tipe data boolean
+└── 📄 README.md // Dokumentasi ini
+
 🔄 Alur Program
 
 1. **Inisialisasi**:
