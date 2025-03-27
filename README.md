@@ -16,16 +16,23 @@ Fitur utama program:
 - Menampilkan semua data kota dan nama manusia
 
 - Mencari data berdasarkan kota tertentu
+  
 
 📁 Struktur File
+
 .
 ├── 📄 linked.h //  Header file untuk operasi linked list dasar
+
 ├── 📄 linked.c //  Implementasi operasi linked list dasar
+
 ├── 📄 SLL.h //     Header file untuk sistem manajemen kota-nama
+
 ├── 📄 SLL.c //     Implementasi sistem manajemen kota-nama
+
 ├── 📄 main.c //    Program utama dengan antarmuka menu
-├── 📄 boolean.h // Definisi tipe data boolean
-└── 📄 README.md // Dokumentasi ini
+
+└── 📄 boolean.h // Definisi tipe data boolean
+
 
 🔄 Alur Program
 
@@ -47,11 +54,13 @@ Fitur utama program:
 
 5. **Keluar**:
    - Membersihkan semua alokasi memori sebelum program berakhir
+     
 
 🎯 Lesson Learned
 - Implementasi praktis Single Linked List dalam kasus nyata
 
 - Penggunaan array of linked lists untuk struktur data yang lebih kompleks
+
 
 📝 Catatan
 
