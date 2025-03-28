@@ -94,10 +94,4 @@ Program ini dikembangkan sebagai bahan pembelajaran struktur data dan pemrograma
 
 📚 References
 
-echo-akash : https://gist.github.com/echo-akash/b1345925b6c801217f7cde452f8e2c73
-
-BaseMax : https://github.com/BaseMax/SinglyLinkedListC
-
-csaybar : https://gist.github.com/csaybar/d0451939e79c16456095d6ed59bd718f
-
-DeepSeek
+Program yang dibuat pak Ade Chandra menjadi referensi bagi beberapa modul didalam linked.c
